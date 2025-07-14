@@ -1,0 +1,6 @@
+[submodule "user-application"]
+	path = user-application
+	url = https://github.com/Final-Project-MR-Piano/user-application.git
+[submodule "admin-application"]
+	path = admin-application
+	url = https://github.com/Final-Project-MR-Piano/admin-application.git
